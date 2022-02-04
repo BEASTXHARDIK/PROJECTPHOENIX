@@ -1,0 +1,39 @@
+body{background-color:black;
+	font-family: 'Roboto', sans-serif;
+	color:whitesmoke;
+
+}
+i{color:whitesmoke;
+  position:relative;
+  left:450px;
+  font-size: 50px;
+}
+div{font-size:50px;
+color:#C0392B;
+position:relative;
+left: 350px;
+}
+#odd{
+	
+	position:relative;
+	left:75px;
+	border: 5px  solid whitesmoke;
+}
+#even{position:relative;
+	left:px;
+	border: 7px solid whitesmoke;
+	}
+
+h1{font-size:20px;
+	border: 5px double lightblue;
+width:460px;
+position: relative;
+left:500px;
+}
+img{border:10px double #F1C40F ;
+
+}
+#ss{
+background-color:whitesmoke;
+border:0px none white;
+}
