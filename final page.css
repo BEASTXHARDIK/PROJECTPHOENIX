@@ -1,0 +1,76 @@
+body{background-color:black;
+	font-family: 'Roboto', sans-serif;
+	color:whitesmoke;
+}
+#odd{ position:relative;
+ height:350px;
+ width:350px;
+ float:left;
+}
+#nice{position:relative;
+height:400px;
+width: 400px;
+float:left;
+left:40px;
+font-size: 20px;
+}
+#not{
+position:relative;
+bottom:285px;
+left: 400px;
+
+}
+#even{ 
+	height:50px;
+	width:50px;
+	position:relative;
+	top:250px;
+	right:350px;
+	float:left;	
+
+}
+u{color:whitesmoke;
+
+}
+#tony{
+	position:relative;
+	bottom:20px;
+}
+#note{
+	position:relative;
+	bottom:20px;
+}
+#vista{ position:relative;
+       left:0px;
+}
+   
+
+       }
+       #oneone{position:relative;
+       	height:50px;
+       	width:50px;
+       	top:px;
+       	right:px;
+       	
+
+       }
+      #twotwo{height:50px;
+	width:50px;
+	position:relative;
+	top:205px;
+	right:295px;
+	float:left;}
+	    #youtube{ position:relative;
+       	height:50px;
+       	width:50px;
+       	top:162px; 
+       	right:230px;}
+
+       	#ek{position:relative;
+       		height:50px;
+       		width:50px;
+       		top:200px;
+       		right: 290px;
+
+
+       	}
